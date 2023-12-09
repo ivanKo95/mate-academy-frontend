@@ -1,0 +1,8 @@
+
+body > :first-child {
+    background-color: red;
+}
+
+h1.title {
+    background-color: green;
+}

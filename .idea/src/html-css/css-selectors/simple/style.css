@@ -1,0 +1,11 @@
+/*[title^="page"] {*/
+/*[title$="page"] {*/
+/*[title*="page"] {*/
+/*[title~="page"] {*/
+[title|="page"] {
+    background-color: green;
+}
+
+b {
+    color: red;
+}

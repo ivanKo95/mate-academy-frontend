@@ -1,0 +1,10 @@
+
+
+
+.box::before,
+.box::after
+{
+    content: "123";
+    color: purple;
+    background-color: yellowgreen;
+}

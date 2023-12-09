@@ -1,0 +1,5 @@
+.picture {
+   box-sizing: border-box;
+   width: 100%;
+   border: 10px solid #000;
+}

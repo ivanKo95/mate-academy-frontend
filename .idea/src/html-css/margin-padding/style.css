@@ -1,0 +1,25 @@
+
+html {
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+.title {
+    height: 80px;
+    line-height: 80px;
+    color: #fff;
+    text-align: center;
+    background-color: #333;
+}
+
+.message {
+    margin: 10px auto;
+    padding: 20px;
+    max-width: 500px;
+    text-align: center;
+
+    background-color: #ddd;
+}
+
+.inline {
+    display: inline-block;
+}
