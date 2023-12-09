@@ -1,17 +1,20 @@
-body {
-    margin: 10px;
-    /*padding: 20px;*/
+html {
+    --footer-height: 150px;
+    --header-height: 80px;
 }
 
-.box {
-    margin-top: 40px;
-
-    height: 200px;
-    background-color: green;
+.header {
+    height: var(--header-height);
+    background-color: #0057b7;
 }
 
-.box2 {
-    height: 10px;
-    margin: 15px;
-    background-color: fuchsia;
+.main {
+    box-sizing: border-box;
+    min-height: calc(100vh - var(--header-height) - var(--footer-height)) ;
+    padding: 10px 20px;
+}
+
+.footer {
+    height: var(--footer-height);
+    background-color: #ffd700;
 }

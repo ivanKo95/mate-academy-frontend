@@ -1,7 +1,23 @@
 <html>
 <link rel="stylesheet" href="style.css">
 <body>
-<div class="box2"></div>
-<div class="box"></div>
+<h1>Mate Academy</h1>
+
+<form action="http://localhost:3000/api" method="post">
+    <div class="form-field">
+        Username: <br>
+        <input type="text" name="username" placeholder="Enter your name">
+    </div>
+    <div class="form-field">
+        Email: <br>
+        <input type="email" name="email">
+    </div>
+    <div class="form-field">
+        Password: <br>
+        <input type="password" name="password" required minlength="8" maxlength="20">
+    </div>
+    <button>Send</button>
+</form>
+
 </body>
 </html>

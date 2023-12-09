@@ -1,7 +1,28 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
   <component name="ChangeListManager">
-    <list default="true" id="f315cf18-a83f-42a0-84aa-2e8c0189119e" name="Changes" comment="" />
+    <list default="true" id="f315cf18-a83f-42a0-84aa-2e8c0189119e" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/src/html-css/css-selectors/combined/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/src/html-css/css-selectors/combined/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/src/html-css/css-selectors/combined/normalize.css" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/src/html-css/css-selectors/combined/normalize.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/src/html-css/css-selectors/combined/style.css" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/src/html-css/css-selectors/combined/style.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/src/html-css/forms/intro/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/src/html-css/forms/intro/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/src/html-css/forms/intro/style.css" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/src/html-css/forms/intro/style.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/src/html-css/margin-padding/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/src/html-css/margin-padding/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/src/html-css/margin-padding/style.css" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/src/html-css/margin-padding/style.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/src/html-css/media-queries/responsive-background/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/src/html-css/media-queries/responsive-background/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/src/html-css/media-queries/responsive-background/style.css" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/src/html-css/media-queries/responsive-background/style.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/src/html-css/media-queries/responsive-images/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/src/html-css/media-queries/responsive-images/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/src/html-css/media-queries/responsive-images/style.css" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/src/html-css/media-queries/responsive-images/style.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/src/html-css/responsiveness/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/src/html-css/responsiveness/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/src/html-css/responsiveness/style.css" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/src/html-css/responsiveness/style.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/src/javascript/MakeAbbr.js" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/src/javascript/MakeAbbr.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/src/javascript/array/tasks.js" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/src/javascript/array/tasks.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/src/javascript/shortest-word.js" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/src/javascript/shortest-word.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -11,15 +32,16 @@
     <option name="RECENT_TEMPLATES">
       <list>
         <option value="package.json" />
+        <option value="JavaScript File" />
       </list>
     </option>
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
-  <component name="ProjectColorInfo"><![CDATA[{
-  "associatedIndex": 2
-}]]></component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 2
+}</component>
   <component name="ProjectId" id="2Yljei84VzRM8AaxtkSD04Cmq1j" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
@@ -29,13 +51,186 @@
   </component>
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
+    "Node.js.tasks.js.executor": "Run",
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
-    "git-widget-placeholder": "master"
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "git-widget-placeholder": "master",
+    "last_opened_file_path": "/Users/ivan/IdeaProjects/dmdev-projects/mate-academy-frontend/.idea/src/html-css/forms/intro",
+    "node.js.detected.package.eslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm"
   }
 }]]></component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/.idea/src/html-css/forms/intro" />
+      <recent name="$PROJECT_DIR$/.idea/src/html-css/media-queries" />
+      <recent name="$PROJECT_DIR$/.idea/src/html-css/media-queries/responsive-images" />
+      <recent name="$PROJECT_DIR$/.idea/src/html-css" />
+      <recent name="$PROJECT_DIR$/.idea/src/html-css/pseudo-elements" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/.idea/src/html-css/pseudo-elements" />
+      <recent name="$PROJECT_DIR$/.idea/src/html-css/media-queries" />
+      <recent name="$PROJECT_DIR$/.idea/src/html-css" />
+      <recent name="$PROJECT_DIR$/.idea/src/html-css/css-selectors/simple" />
+      <recent name="$PROJECT_DIR$/.idea/src" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Node.js.tasks.js">
+    <configuration name="MakeAbbr.js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="$PROJECT_DIR$/.idea/src/javascript/MakeAbbr.js" working-dir="$PROJECT_DIR$/.idea/src/javascript">
+      <method v="2" />
+    </configuration>
+    <configuration name="shortest-word.js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="$PROJECT_DIR$/.idea/src/javascript/shortest-word.js" working-dir="$PROJECT_DIR$/.idea/src/javascript">
+      <method v="2" />
+    </configuration>
+    <configuration name="tasks.js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="$PROJECT_DIR$/.idea/src/javascript/array/tasks.js" working-dir="$PROJECT_DIR$/.idea/src/javascript/array">
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Node.js.tasks.js" />
+        <item itemvalue="Node.js.shortest-word.js" />
+        <item itemvalue="Node.js.MakeAbbr.js" />
+      </list>
+    </recent_temporary>
+  </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="javascript">
+          <url>file://$PROJECT_DIR$/.idea/src/javascript/MakeAbbr.js</url>
+          <line>17</line>
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="javascript">
+          <url>file://$PROJECT_DIR$/.idea/src/javascript/MakeAbbr.js</url>
+          <line>18</line>
+          <option name="timeStamp" value="3" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="javascript">
+          <url>file://$PROJECT_DIR$/.idea/src/javascript/array/tasks.js</url>
+          <line>15</line>
+          <option name="timeStamp" value="4" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="javascript">
+          <url>file://$PROJECT_DIR$/.idea/src/javascript/array/tasks.js</url>
+          <line>19</line>
+          <option name="timeStamp" value="5" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="javascript">
+          <url>file://$PROJECT_DIR$/.idea/src/javascript/array/tasks.js</url>
+          <line>51</line>
+          <option name="timeStamp" value="7" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="javascript">
+          <url>file://$PROJECT_DIR$/.idea/src/javascript/array/tasks.js</url>
+          <line>52</line>
+          <option name="timeStamp" value="8" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="javascript">
+          <url>file://$PROJECT_DIR$/.idea/src/javascript/array/tasks.js</url>
+          <line>50</line>
+          <option name="timeStamp" value="9" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="javascript">
+          <url>file://$PROJECT_DIR$/.idea/src/javascript/array/tasks.js</url>
+          <line>54</line>
+          <option name="timeStamp" value="11" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="javascript">
+          <url>file://$PROJECT_DIR$/.idea/src/javascript/array/tasks.js</url>
+          <line>63</line>
+          <option name="timeStamp" value="12" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="javascript">
+          <url>file://$PROJECT_DIR$/.idea/src/javascript/array/tasks.js</url>
+          <line>62</line>
+          <option name="timeStamp" value="13" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="javascript">
+          <url>file://$PROJECT_DIR$/.idea/src/javascript/array/tasks.js</url>
+          <line>65</line>
+          <option name="timeStamp" value="15" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="javascript">
+          <url>file://$PROJECT_DIR$/.idea/src/javascript/array/tasks.js</url>
+          <line>67</line>
+          <option name="timeStamp" value="16" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="javascript">
+          <url>file://$PROJECT_DIR$/.idea/src/javascript/array/tasks.js</url>
+          <line>71</line>
+          <option name="timeStamp" value="17" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="javascript">
+          <url>file://$PROJECT_DIR$/.idea/src/javascript/array/tasks.js</url>
+          <line>74</line>
+          <option name="timeStamp" value="18" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="javascript">
+          <url>file://$PROJECT_DIR$/.idea/src/javascript/array/tasks.js</url>
+          <line>156</line>
+          <option name="timeStamp" value="22" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="javascript">
+          <url>file://$PROJECT_DIR$/.idea/src/javascript/array/tasks.js</url>
+          <line>157</line>
+          <option name="timeStamp" value="23" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="javascript">
+          <url>file://$PROJECT_DIR$/.idea/src/javascript/array/tasks.js</url>
+          <line>159</line>
+          <option name="timeStamp" value="24" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="javascript">
+          <url>file://$PROJECT_DIR$/.idea/src/javascript/array/tasks.js</url>
+          <line>180</line>
+          <properties lambdaOrdinal="-1" />
+          <option name="timeStamp" value="25" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="javascript">
+          <url>file://$PROJECT_DIR$/.idea/src/javascript/array/tasks.js</url>
+          <line>181</line>
+          <properties lambdaOrdinal="-1" />
+          <option name="timeStamp" value="26" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="javascript">
+          <url>file://$PROJECT_DIR$/.idea/src/javascript/array/tasks.js</url>
+          <line>182</line>
+          <properties lambdaOrdinal="-1" />
+          <option name="timeStamp" value="27" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="javascript">
+          <url>file://$PROJECT_DIR$/.idea/src/javascript/array/tasks.js</url>
+          <line>208</line>
+          <properties lambdaOrdinal="-1" />
+          <option name="timeStamp" value="32" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="javascript">
+          <url>file://$PROJECT_DIR$/.idea/src/javascript/array/tasks.js</url>
+          <line>220</line>
+          <properties lambdaOrdinal="-1" />
+          <option name="timeStamp" value="33" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="javascript">
+          <url>file://$PROJECT_DIR$/.idea/src/javascript/array/tasks.js</url>
+          <line>223</line>
+          <properties lambdaOrdinal="-1" />
+          <option name="timeStamp" value="34" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="javascript">
+          <url>file://$PROJECT_DIR$/.idea/src/javascript/array/tasks.js</url>
+          <line>227</line>
+          <properties lambdaOrdinal="-1" />
+          <option name="timeStamp" value="35" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
   </component>
 </project>

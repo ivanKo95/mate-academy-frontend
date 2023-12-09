@@ -1,40 +1,20 @@
 <html>
 <link rel="stylesheet" href="style.css">
+<link rel="stylesheet" href="normalize.css">
 <body>
-<h1>Selectors</h1>
-<p class="some-class">some class</p>
-<p id="some-id">id="some-id</p>
+<div class="box">.box</div>
 
-<p title="first page active">
-    title="first <b>page</b> active"
-</p>
+<section class="container box"> Container
+    <div class="box">.box Child 1</div>
+    <div>Not a box</div>
+    <div class="box">.box Child 2
+        <div class="box">.box Grand Child 1</div>
+        <div>Not a box</div>
+        <div class="box">.box Grand Child 2</div>
+    </div>
+</section>
 
-<p title="page">
-    title="<b>page</b>"
-</p>
-
-<p title="page-title">
-    title="<b>page</b>-title"
-</p>
-
-<p title="page disabled">
-    title="<b>page</b> disabled"
-</p>
-
-<p title="last page">
-    title="last <b>page</b>"
-</p>
-
-<p title="pages">
-    title="<b>page</b>s"
-</p>
-
-<p title="book">
-    title="book"
-</p>
-
-<p title="webpages">
-    title="web<b>page</b>s"
-</p>
+<div class="box">.box Next Sibling</div>
+<div class="box">.box Later Sibling</div>
 </body>
 </html>

@@ -1,11 +1,9 @@
-/*[title^="page"] {*/
-/*[title$="page"] {*/
-/*[title*="page"] {*/
-/*[title~="page"] {*/
-[title|="page"] {
+/*.container, .box {*/
+/*.container.box {*/
+/*.container .box {*/
+/*.container > .box {*/
+/*.container > * {*/
+/*.container > * > .box{*/
+.container > * > *{
     background-color: green;
-}
-
-b {
-    color: red;
 }

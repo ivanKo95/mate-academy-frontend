@@ -1,9 +1,5 @@
-body {
-    background-color: red;
-}
-
-@media (min-width: 900px) or (orientation: portrait) {
-    body {
-        background-color: yellow;
-    }
+.picture {
+   box-sizing: border-box;
+   width: 100%;
+   border: 10px solid #000;
 }
